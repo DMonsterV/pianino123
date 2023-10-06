@@ -1,0 +1,14 @@
+C:\Users\foxso\source\repos\Pianino1\bin\Debug\net6.0\Pianino1.exe
+C:\Users\foxso\source\repos\Pianino1\bin\Debug\net6.0\Pianino1.deps.json
+C:\Users\foxso\source\repos\Pianino1\bin\Debug\net6.0\Pianino1.runtimeconfig.json
+C:\Users\foxso\source\repos\Pianino1\bin\Debug\net6.0\Pianino1.dll
+C:\Users\foxso\source\repos\Pianino1\bin\Debug\net6.0\Pianino1.pdb
+C:\Users\foxso\source\repos\Pianino1\obj\Debug\net6.0\Pianino1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foxso\source\repos\Pianino1\obj\Debug\net6.0\Pianino1.AssemblyInfoInputs.cache
+C:\Users\foxso\source\repos\Pianino1\obj\Debug\net6.0\Pianino1.AssemblyInfo.cs
+C:\Users\foxso\source\repos\Pianino1\obj\Debug\net6.0\Pianino1.csproj.CoreCompileInputs.cache
+C:\Users\foxso\source\repos\Pianino1\obj\Debug\net6.0\Pianino1.dll
+C:\Users\foxso\source\repos\Pianino1\obj\Debug\net6.0\refint\Pianino1.dll
+C:\Users\foxso\source\repos\Pianino1\obj\Debug\net6.0\Pianino1.pdb
+C:\Users\foxso\source\repos\Pianino1\obj\Debug\net6.0\Pianino1.genruntimeconfig.cache
+C:\Users\foxso\source\repos\Pianino1\obj\Debug\net6.0\ref\Pianino1.dll
